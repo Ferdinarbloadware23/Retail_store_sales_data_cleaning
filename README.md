@@ -1,6 +1,6 @@
 # Retail Store Sales Analysis & Data Cleaning
 
-![Dashboard Preview](dashboard_preview_retailstoresales.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Overview
 This project focuses on transforming a raw, "dirty" retail dataset into a reliable analytical report. The primary goal was to ensure data accuracy before performing any analysis, covering everything from handling missing values to standardizing data formats.
